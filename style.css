@@ -1,0 +1,30 @@
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+body {
+    
+    margin: 0;
+    padding: 0;
+   
+}
+header {
+   
+    text-align: center;
+}
+main {
+    padding: 2em;
+    max-width: 900px;
+    margin: 0 auto;
+}
